@@ -1,4 +1,9 @@
 # Atomic
+
+This repository is a copy of the old version of the [Atomic color scheme](https://github.com/gerardbm/atomic). This old version is saved into a parallel repository because it provides support for NetBeans, Sublime Text, xfce4-terminal and konsole, while the new version focuses only Vim/Neovim, URxvt and XTerm.
+
+In the new version, colors have been selected using the color space HSLuv (different algorithms).
+
 ### Multiple colors for multiple applications
 
 Atomic is a dark color scheme designed to use with terminal, Vim/Neovim and several GUI code editors. This repository also includes themes for some terminal applications (vim-airline, irssi, mutt, cmus, vifm...) and Zsh.
@@ -8,10 +13,6 @@ Atomic is a dark color scheme designed to use with terminal, Vim/Neovim and seve
 The color palette consists of sixteen precision colors selected procedurally (algorithms), distributed in six hues and four balanced Luma (Y'). Note that Luma (Y') is the perceived brightness; don't confuse it with the lightness of the HSL color model.
 
 Human vision doesn't detect brightness linearly with color: in a pixel (R'G'B'), we see red color (#FF0000) darker than green color (#00FF00), and green color (#00FF00) brighter than red (#FF0000) and blue (#0000FF) colors.
-
-![Atomic-luma](https://github.com/gerardbm/Atomic/blob/master/img/luma.png)
-
-\*CR = contrast ratio.
 
 So Luma (Y') has been balanced according to the ITU-R Recommendation BT.601:
 
