@@ -1,8 +1,8 @@
-# Atomic
+# Atomic 1.0
 
-This repository is a copy of the old version of the [Atomic color scheme](https://github.com/gerardbm/atomic). This old version is saved into a parallel repository because it provides support for NetBeans, Sublime Text, xfce4-terminal and konsole, while the new version focuses only Vim/Neovim, URxvt and XTerm.
+This repository is a copy of the old version of the [Atomic color scheme](https://github.com/gerardbm/atomic). It has benn saved into a parallel repository because it provides support for NetBeans, Sublime Text, xfce4-terminal and konsole, while the new version focuses only Vim/Neovim, URxvt and XTerm.
 
-In the new version, colors have been selected using the color space HSLuv (different algorithms).
+In the new version, colors have been selected using the color space HSLuv (different algorithm).
 
 ### Multiple colors for multiple applications
 
